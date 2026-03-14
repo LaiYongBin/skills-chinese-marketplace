@@ -18,6 +18,16 @@
       "description": "将所有插件技能和命令的 description 字段汉化为中文",
       "version": "1.0.0",
       "strict": true
+    },
+    {
+      "name": "publish-skill",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/LaiYongBin/publish-skill-plugin.git"
+      },
+      "description": "将新技能打包并发布到 GitHub 和 skills-chinese-marketplace 的完整工作流",
+      "version": "1.0.0",
+      "strict": true
     }
   ]
 }
