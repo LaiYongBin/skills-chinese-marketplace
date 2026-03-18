@@ -29,5 +29,15 @@
       "version": "1.0.0",
       "strict": true
     }
+    ,{
+      "name": "daily-log-by-git",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/LaiYongBin/daily-log-by-git-plugin.git"
+      },
+      "description": "根据 git 提交记录自动生成指定日期的工作日报（Markdown 格式），支持指定仓库路径或扫描全部默认仓库",
+      "version": "1.0.0",
+      "strict": true
+    }
   ]
 }
