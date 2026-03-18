@@ -38,6 +38,16 @@
       "description": "根据 git 提交记录自动生成指定日期的工作日报（Markdown 格式），支持指定仓库路径或扫描全部默认仓库",
       "version": "1.0.0",
       "strict": true
+    },
+    {
+      "name": "skill-env-vars",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/LaiYongBin/skill-env-vars-plugin.git"
+      },
+      "description": "维护技能中数据库等环境变量的标准名称注册表。仅在创建新技能（/publish-skill）或编辑已有技能时加载，日常代码开发不触发",
+      "version": "1.0.0",
+      "strict": true
     }
   ]
 }
