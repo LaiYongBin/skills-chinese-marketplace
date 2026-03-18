@@ -48,6 +48,16 @@
       "description": "维护技能中数据库等环境变量的标准名称注册表。仅在创建新技能（/publish-skill）或编辑已有技能时加载，日常代码开发不触发",
       "version": "1.0.0",
       "strict": true
+    },
+    {
+      "name": "todo-list",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/LaiYongBin/todo-list-plugin.git"
+      },
+      "description": "Todo List 管理技能，支持自然语言添加/查看/完成/删除待办，含今日待办、全部未完成两个命令，操作后自动发送钉钉通知",
+      "version": "1.0.0",
+      "strict": true
     }
   ]
 }
