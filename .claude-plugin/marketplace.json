@@ -65,8 +65,8 @@
         "source": "url",
         "url": "https://github.com/LaiYongBin/skill-my-memory-plugin.git"
       },
-      "description": "个人长期记忆与候选记忆管理技能，支持 PostgreSQL、pgvector、自动候选提取、review 审批与向量检索",
-      "version": "1.0.1",
+      "description": "个人长期记忆与候选记忆管理技能，支持 PostgreSQL、pgvector、自动记忆分析、证据累积升级、review 审批与向量检索",
+      "version": "1.0.8",
       "strict": true
     }
   ]
