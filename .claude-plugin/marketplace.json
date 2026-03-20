@@ -16,7 +16,7 @@
         "url": "https://github.com/LaiYongBin/skills-chinese-plugin.git"
       },
       "description": "将所有插件技能和命令的 description 字段汉化为中文",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "strict": true
     },
     {
