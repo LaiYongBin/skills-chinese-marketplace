@@ -58,6 +58,16 @@
       "description": "Todo List 管理技能，支持自然语言添加/查看/完成/删除待办，含今日待办、全部未完成两个命令，操作后自动发送钉钉通知",
       "version": "1.0.0",
       "strict": true
+    },
+    {
+      "name": "skill-my-memory",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/LaiYongBin/skill-my-memory-plugin.git"
+      },
+      "description": "个人长期记忆与候选记忆管理技能，支持 PostgreSQL、pgvector、自动候选提取、review 审批与向量检索",
+      "version": "1.0.0",
+      "strict": true
     }
   ]
 }
